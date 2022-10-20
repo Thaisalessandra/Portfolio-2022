@@ -11,7 +11,7 @@
     height: 80vh;
     width: 100vw;
     background-color:#60E1E0;
-    background-image: url('./port/img/930b23df8b9e4a1228550eb3cdfcc8f4b22ef41e_hq.gif') ;
+    background-image: url('('./mulher.png')') ;
     background-position:center;
     background-repeat:no-repeat;
     background-size: contain;
@@ -201,7 +201,7 @@ font-size: 40px;
     align-items: center;
     justify-content: center;
     background-color: #60E1E0;
-    background-image: url('./port/img/mulher.png');
+    background-image: url('./mulher.png');
     background-position: center;
     background-size:contain;
     background-repeat: no-repeat;
