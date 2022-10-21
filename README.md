@@ -12,8 +12,8 @@
 </div>
 <div align="center">
 
-<a href="https://portifolio-five-xi.vercel.app">
-  <img height="150em" src="https://mestreacasa.gva.es/c/document_library/get_file?folderId=500027157917&name=DLFE-2489922.gif"/>
+<a href="https://portifolio-five-xi.vercel.app" target="_blank">
+  <img height="150em" src="https://mestreacasa.gva.es/c/document_library/get_file?folderId=500027157917&name=DLFE-2489922.gif"/></img>
   </a>
 </div>
 <div align="center">
