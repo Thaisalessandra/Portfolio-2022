@@ -18,8 +18,8 @@
 </div>
 <div align="center">
 <h1 align="center" >Tecnologia utilizada:</h1>
-<img align="center" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
-<img align="center" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
+<img align="center" height="90" width="100" alt="Thais-pic" title="Thais-pic" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
+<img align="center" height="90" width="100" alt="Thais-pic" title="Thais-pic" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
 
 </div>
 
