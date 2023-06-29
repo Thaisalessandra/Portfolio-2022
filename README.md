@@ -6,7 +6,7 @@
   <img align="right" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif" />
   <img align="left" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="http://pa1.narvii.com/6824/63f8ca1a102a0dbc4d71539b5769cb79ceff6673_00.gif" />
   </div>
-<h1 align="center" >link do Portifólio</h1>
+<h1 align="center" >link do Portfólio</h1>
 <div align="center">
 <img align="center" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://i.pinimg.com/originals/b6/fd/18/b6fd1893a54478eb393d13c5d1994ef7.gif" />
 </div>
